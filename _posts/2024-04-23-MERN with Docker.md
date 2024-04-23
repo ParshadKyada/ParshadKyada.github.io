@@ -6,7 +6,7 @@ In this blog post, we'll explore how to containerize a full-stack application us
 
 ![My Image](../assets/Images/MERN.jpg){:height="350px" width="700px"}
 
-## Table of Contents 📑
+<!-- ## Table of Contents 📑
 
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
@@ -17,9 +17,9 @@ In this blog post, we'll explore how to containerize a full-stack application us
 7. [Creating Docker Compose for Multi-Container Deployment](#creating-docker-compose-for-multi-container-deployment)
 8. [Running and Testing the Application](#running-and-testing-the-application)
 9. [Conclusion](#conclusion)
-10. [Additional Tips and Resources](#additional-tips-and-resources)
+10. [Additional Tips and Resources](#additional-tips-and-resources) -->
 
-## Introduction 🌟
+## Introduction 🌟 
 
 In today's digital landscape, deploying and managing complex applications can be challenging. Docker, a powerful containerization platform, offers a streamlined approach to packaging, distributing, and running applications. In this tutorial, we'll explore how Docker can simplify the deployment of a 3-tier application—a common architecture consisting of a presentation layer (frontend), an application logic layer (backend), and a data storage layer (database).
 
