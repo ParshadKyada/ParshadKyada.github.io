@@ -122,7 +122,7 @@ Next, let's Dockerize the backend or application logic layer:
     CMD [ "npm", "start" ]
     ```
 
-    *I have shown details of all the commands in the [Frontend](#containerizing-the-presentation-layer-frontend) section please refer to the same.*
+    *I have shown details of all the commands in the [Frontend] section please refer to the same.*
 
 - **Building and Running the Docker Image 🐳**
 
