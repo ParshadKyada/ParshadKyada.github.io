@@ -8,16 +8,16 @@ In this blog post, we'll explore how to containerize a full-stack application us
 
 ## Table of Contents 📑
 
-1.  [Introduction](#Introduction)
-2. [Prerequisites](#Prerequisites)
-3. [Getting Started: Setting Up a MERN Application](#Getting-Started)
-4. [Containerizing the Presentation Layer (Frontend)](#Containerizing-the-Presentation-Frontend)
-5. [Containerizing the Application Logic Layer (Backend)](#Containerizing-the-Application-Logic-Layer-Backend)
-6. [Containerizing the Data Storage Layer (Database)](#Containerizing-the-Data-Storage-Layer-Database)
-7. [Creating Docker Compose for Multi-Container Deployment](#Creating-Docker-Compose-for-Multi-Container-Deployment)
-8. [Running and Testing the Application](#Running-and-Testing-the-Application)
-9. [Conclusion](#Conclusion)
-10. [Additional Tips and Resources](#Additional-Tips-and-Resources)
+1.  [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Getting Started: Setting Up a MERN Application](#getting-started)
+4. [Containerizing the Presentation Layer (Frontend)](#containerizing-the-presentation-frontend)
+5. [Containerizing the Application Logic Layer (Backend)](#containerizing-the-application-logic-layer-backend)
+6. [Containerizing the Data Storage Layer (Database)](#containerizing-the-data-storage-layer-database)
+7. [Creating Docker Compose for Multi-Container Deployment](#creating-docker-compose-for-multi-container-deployment)
+8. [Running and Testing the Application](#running-and-testing-the-application)
+9. [Conclusion](#conclusion)
+10. [Additional Tips and Resources](#additional-tips-and-resources)
 
 ## Introduction 🌟
 
